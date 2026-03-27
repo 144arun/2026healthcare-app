@@ -1,2 +1,15 @@
-# 2026healthcare-app
-is a mini healthcare support web application that allows users to submit health concerns and receive basic AI-based responses. Built using HTML, CSS, and JavaScript
+Project Name: CareConnect
+
+Tech Stack:
+HTML, CSS, JavaScript
+
+AI Feature:
+Basic keyword-based auto response system
+
+Use Case:
+This app helps patients submit health issues and get instant basic guidance.
+
+Live Link:
+(add your link)
+
+GitHub Link:

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CareConnect</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>💙 CareConnect</h1>
+    <p>Healthcare Support Form</p>
+
+    <form id="healthForm">
+        <label>Name</label>
+        <input type="text" id="name" placeholder="Enter your name" required>
+
+        <label>Email</label>
+        <input type="email" id="email" placeholder="Enter your email" required>
+
+        <label>Your Health Concern</label>
+        <textarea id="problem" placeholder="Describe your issue..." required></textarea>
+
+        <button type="submit">Submit Request</button>
+    </form>
+
+    <div id="responseBox"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
